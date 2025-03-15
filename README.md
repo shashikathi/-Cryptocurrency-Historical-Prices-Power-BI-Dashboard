@@ -17,13 +17,8 @@ This Power BI dashboard provides an interactive analysis of historical cryptocur
 📂 Data Source
 
 
-Kaggle: Cryptocurrency Historical Prices Dataset (Replace with actual dataset link)
+Kaggle: Cryptocurrency Historical Prices Dataset
 Contains historical price data from multiple cryptocurrencies, including market cap, volume, and closing prices.
-🚀 How to Use
-
-1️⃣ Download the .pbix file and open it in Power BI Desktop.
-2️⃣ Use slicers to explore different cryptocurrencies and time periods.
-3️⃣ Customize visuals and add further insights based on your needs.
 
 📌 Future Enhancements
 
