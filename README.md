@@ -26,3 +26,6 @@ Contains historical price data from multiple cryptocurrencies, including market 
 🔹 Adding a sentiment analysis component for crypto market trends
 🔹 Forecasting cryptocurrency trends using Power BI's AI features
 🔹 More detailed coin performance metrics and trend indicators
+![Cryptocurrency Dashboard](https://github.com/shashikathi/Superstore_Analytics/raw/main/dashboardpowerbi.png)
+
+
